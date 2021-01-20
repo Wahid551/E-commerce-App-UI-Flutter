@@ -1,8 +1,8 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/abuanwar072/E-commerce-App-UI-Flutter)
+lutter)
 
 # E-commerce App - Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/XBKzpTz65Io)
+
 
 **Packages we are using:**
 
